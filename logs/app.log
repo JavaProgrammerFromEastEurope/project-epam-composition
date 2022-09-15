@@ -1,0 +1,898 @@
+[INFO ] 2022-03-23 16:01:51.091 [main] REPORT - File successfully read with path - 'files/text3.txt'!
+
+[INFO ] 2022-03-23 16:01:51.111 [main] REPORT - 
+ Sort By Length
+[INFO ] 2022-03-23 16:01:51.116 [main] REPORT - 'It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking at its layout. '
+[INFO ] 2022-03-23 16:01:51.117 [main] REPORT - 'Bye.'
+[INFO ] 2022-03-23 16:01:51.117 [main] REPORT - 'It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56- 47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. '
+[INFO ] 2022-03-23 16:01:51.117 [main] REPORT - 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English. '
+[INFO ] 2022-03-23 16:01:51.123 [main] REPORT - 
+ Sentences with higher word - 'distribution'
+[INFO ] 2022-03-23 16:01:51.124 [main] REPORT - 'The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English'
+[INFO ] 2022-03-23 16:01:51.130 [main] REPORT - 
+ Remove Sentences if less 11
+[INFO ] 2022-03-23 16:01:51.134 [main] REPORT - '	Bye.' has 2 words
+[INFO ] 2022-03-23 16:01:51.134 [main] REPORT -  
+ sentence is removed 
+[INFO ] 2022-03-23 16:01:51.135 [main] REPORT - '	It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/(3+4) unchanged' has 24 words
+[INFO ] 2022-03-23 16:01:51.136 [main] REPORT - '	It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout' has 25 words
+[INFO ] 2022-03-23 16:01:51.136 [main] REPORT - '	It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking at its layout' has 27 words
+[INFO ] 2022-03-23 16:01:51.136 [main] REPORT - 'The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English' has 43 words
+[INFO ] 2022-03-23 16:01:51.138 [main] REPORT - 'It was popularised in the 5*(1+2*(3/(4-(1-56- 47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum' has 44 words
+[INFO ] 2022-03-23 16:01:51.433 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:51.434 [main] REPORT -  '1' - 4 counts
+[INFO ] 2022-03-23 16:01:51.435 [main] REPORT -  '10' - 1 counts
+[INFO ] 2022-03-23 16:01:51.435 [main] REPORT -  '12' - 2 counts
+[INFO ] 2022-03-23 16:01:51.435 [main] REPORT -  '2' - 9 counts
+[INFO ] 2022-03-23 16:01:51.436 [main] REPORT -  '3' - 5 counts
+[INFO ] 2022-03-23 16:01:51.436 [main] REPORT -  '4' - 3 counts
+[INFO ] 2022-03-23 16:01:51.436 [main] REPORT -  '42' - 1 counts
+[INFO ] 2022-03-23 16:01:51.449 [main] REPORT -  '47' - 1 counts
+[INFO ] 2022-03-23 16:01:51.449 [main] REPORT -  '5' - 4 counts
+[INFO ] 2022-03-23 16:01:51.449 [main] REPORT -  '56' - 1 counts
+[INFO ] 2022-03-23 16:01:51.450 [main] REPORT -  '6' - 1 counts
+[INFO ] 2022-03-23 16:01:51.450 [main] REPORT -  '7' - 3 counts
+[INFO ] 2022-03-23 16:01:51.450 [main] REPORT -  '71' - 2 counts
+[INFO ] 2022-03-23 16:01:51.451 [main] REPORT -  '73' - 1 counts
+[INFO ] 2022-03-23 16:01:51.451 [main] REPORT -  '89' - 1 counts
+[INFO ] 2022-03-23 16:01:51.451 [main] REPORT -  '9' - 1 counts
+[INFO ] 2022-03-23 16:01:51.452 [main] REPORT -  'Aldus' - 1 counts
+[INFO ] 2022-03-23 16:01:51.452 [main] REPORT -  'Bye' - 1 counts
+[INFO ] 2022-03-23 16:01:51.452 [main] REPORT -  'Content' - 1 counts
+[INFO ] 2022-03-23 16:01:51.452 [main] REPORT -  'English' - 1 counts
+[INFO ] 2022-03-23 16:01:51.453 [main] REPORT -  'Ipsum' - 3 counts
+[INFO ] 2022-03-23 16:01:51.453 [main] REPORT -  'It' - 4 counts
+[INFO ] 2022-03-23 16:01:51.453 [main] REPORT -  'Letraset' - 1 counts
+[INFO ] 2022-03-23 16:01:51.461 [main] REPORT -  'Lorem' - 2 counts
+[INFO ] 2022-03-23 16:01:51.461 [main] REPORT -  'PageMaker' - 1 counts
+[INFO ] 2022-03-23 16:01:51.462 [main] REPORT -  'The' - 1 counts
+[INFO ] 2022-03-23 16:01:51.462 [main] REPORT -  'a' - 7 counts
+[INFO ] 2022-03-23 16:01:51.462 [main] REPORT -  'also' - 1 counts
+[INFO ] 2022-03-23 16:01:51.462 [main] REPORT -  'and' - 1 counts
+[INFO ] 2022-03-23 16:01:51.463 [main] REPORT -  'as' - 1 counts
+[INFO ] 2022-03-23 16:01:51.463 [main] REPORT -  'at' - 2 counts
+[INFO ] 2022-03-23 16:01:51.463 [main] REPORT -  'be' - 2 counts
+[INFO ] 2022-03-23 16:01:51.464 [main] REPORT -  'but' - 1 counts
+[INFO ] 2022-03-23 16:01:51.464 [main] REPORT -  'by' - 1 counts
+[INFO ] 2022-03-23 16:01:51.464 [main] REPORT -  'centuries' - 1 counts
+[INFO ] 2022-03-23 16:01:51.465 [main] REPORT -  'containing' - 1 counts
+[INFO ] 2022-03-23 16:01:51.466 [main] REPORT -  'content' - 2 counts
+[INFO ] 2022-03-23 16:01:51.466 [main] REPORT -  'desktop' - 1 counts
+[INFO ] 2022-03-23 16:01:51.467 [main] REPORT -  'distracted' - 1 counts
+[INFO ] 2022-03-23 16:01:51.467 [main] REPORT -  'distribution' - 1 counts
+[INFO ] 2022-03-23 16:01:51.467 [main] REPORT -  'electronic' - 1 counts
+[INFO ] 2022-03-23 16:01:51.468 [main] REPORT -  'essentially' - 1 counts
+[INFO ] 2022-03-23 16:01:51.468 [main] REPORT -  'established' - 2 counts
+[INFO ] 2022-03-23 16:01:51.468 [main] REPORT -  'fact' - 2 counts
+[INFO ] 2022-03-23 16:01:51.469 [main] REPORT -  'five' - 1 counts
+[INFO ] 2022-03-23 16:01:51.469 [main] REPORT -  'has' - 2 counts
+[INFO ] 2022-03-23 16:01:51.469 [main] REPORT -  'here' - 2 counts
+[INFO ] 2022-03-23 16:01:51.470 [main] REPORT -  'in' - 1 counts
+[INFO ] 2022-03-23 16:01:51.470 [main] REPORT -  'including' - 1 counts
+[INFO ] 2022-03-23 16:01:51.470 [main] REPORT -  'into' - 1 counts
+[INFO ] 2022-03-23 16:01:51.478 [main] REPORT -  'is' - 3 counts
+[INFO ] 2022-03-23 16:01:51.479 [main] REPORT -  'it' - 2 counts
+[INFO ] 2022-03-23 16:01:51.479 [main] REPORT -  'its' - 2 counts
+[INFO ] 2022-03-23 16:01:51.480 [main] REPORT -  'layout' - 2 counts
+[INFO ] 2022-03-23 16:01:51.480 [main] REPORT -  'leap' - 1 counts
+[INFO ] 2022-03-23 16:01:51.480 [main] REPORT -  'less' - 1 counts
+[INFO ] 2022-03-23 16:01:51.481 [main] REPORT -  'letters' - 1 counts
+[INFO ] 2022-03-23 16:01:51.481 [main] REPORT -  'like' - 2 counts
+[INFO ] 2022-03-23 16:01:51.481 [main] REPORT -  'long' - 1 counts
+[INFO ] 2022-03-23 16:01:51.482 [main] REPORT -  'look' - 1 counts
+[INFO ] 2022-03-23 16:01:51.484 [main] REPORT -  'looking' - 2 counts
+[INFO ] 2022-03-23 16:01:51.484 [main] REPORT -  'making' - 1 counts
+[INFO ] 2022-03-23 16:01:51.484 [main] REPORT -  'more' - 2 counts
+[INFO ] 2022-03-23 16:01:51.485 [main] REPORT -  'normal' - 1 counts
+[INFO ] 2022-03-23 16:01:51.485 [main] REPORT -  'not' - 1 counts
+[INFO ] 2022-03-23 16:01:51.485 [main] REPORT -  'of' - 6 counts
+[INFO ] 2022-03-23 16:01:51.486 [main] REPORT -  'only' - 1 counts
+[INFO ] 2022-03-23 16:01:51.486 [main] REPORT -  'opposed' - 1 counts
+[INFO ] 2022-03-23 16:01:51.486 [main] REPORT -  'or' - 1 counts
+[INFO ] 2022-03-23 16:01:51.487 [main] REPORT -  'page' - 2 counts
+[INFO ] 2022-03-23 16:01:51.495 [main] REPORT -  'passages' - 1 counts
+[INFO ] 2022-03-23 16:01:51.496 [main] REPORT -  'point' - 1 counts
+[INFO ] 2022-03-23 16:01:51.496 [main] REPORT -  'popularised' - 1 counts
+[INFO ] 2022-03-23 16:01:51.496 [main] REPORT -  'publishing' - 1 counts
+[INFO ] 2022-03-23 16:01:51.497 [main] REPORT -  'readable' - 2 counts
+[INFO ] 2022-03-23 16:01:51.497 [main] REPORT -  'reader' - 2 counts
+[INFO ] 2022-03-23 16:01:51.497 [main] REPORT -  'recently' - 1 counts
+[INFO ] 2022-03-23 16:01:51.498 [main] REPORT -  'release' - 1 counts
+[INFO ] 2022-03-23 16:01:51.498 [main] REPORT -  'remaining' - 1 counts
+[INFO ] 2022-03-23 16:01:51.498 [main] REPORT -  'sheets' - 1 counts
+[INFO ] 2022-03-23 16:01:51.499 [main] REPORT -  'software' - 1 counts
+[INFO ] 2022-03-23 16:01:51.499 [main] REPORT -  'survived' - 1 counts
+[INFO ] 2022-03-23 16:01:51.499 [main] REPORT -  'that' - 3 counts
+[INFO ] 2022-03-23 16:01:51.500 [main] REPORT -  'the' - 4 counts
+[INFO ] 2022-03-23 16:01:51.500 [main] REPORT -  'to' - 1 counts
+[INFO ] 2022-03-23 16:01:51.500 [main] REPORT -  'typesetting' - 1 counts
+[INFO ] 2022-03-23 16:01:51.500 [main] REPORT -  'unchanged' - 1 counts
+[INFO ] 2022-03-23 16:01:51.501 [main] REPORT -  'using' - 2 counts
+[INFO ] 2022-03-23 16:01:51.501 [main] REPORT -  'versions' - 1 counts
+[INFO ] 2022-03-23 16:01:51.501 [main] REPORT -  'was' - 1 counts
+[INFO ] 2022-03-23 16:01:51.501 [main] REPORT -  'when' - 2 counts
+[INFO ] 2022-03-23 16:01:51.502 [main] REPORT -  'will' - 2 counts
+[INFO ] 2022-03-23 16:01:51.502 [main] REPORT -  'with' - 2 counts
+[INFO ] 2022-03-23 16:01:51.503 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:51.511 [main] REPORT -  'A' - 1 counts
+[INFO ] 2022-03-23 16:01:51.511 [main] REPORT -  'E' - 1 counts
+[INFO ] 2022-03-23 16:01:51.511 [main] REPORT -  'I' - 7 counts
+[INFO ] 2022-03-23 16:01:51.512 [main] REPORT -  'a' - 48 counts
+[INFO ] 2022-03-23 16:01:51.512 [main] REPORT -  'e' - 71 counts
+[INFO ] 2022-03-23 16:01:51.514 [main] REPORT -  'i' - 44 counts
+[INFO ] 2022-03-23 16:01:51.514 [main] REPORT -  'o' - 39 counts
+[INFO ] 2022-03-23 16:01:51.515 [main] REPORT -  'u' - 16 counts
+[INFO ] 2022-03-23 16:01:51.517 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:51.518 [main] REPORT -  '0' - 1 counts
+[INFO ] 2022-03-23 16:01:51.518 [main] REPORT -  'B' - 1 counts
+[INFO ] 2022-03-23 16:01:51.518 [main] REPORT -  'C' - 1 counts
+[INFO ] 2022-03-23 16:01:51.519 [main] REPORT -  'L' - 3 counts
+[INFO ] 2022-03-23 16:01:51.519 [main] REPORT -  'M' - 1 counts
+[INFO ] 2022-03-23 16:01:51.519 [main] REPORT -  'P' - 1 counts
+[INFO ] 2022-03-23 16:01:51.527 [main] REPORT -  'T' - 1 counts
+[INFO ] 2022-03-23 16:01:51.532 [main] REPORT -  '[' - 1 counts
+[INFO ] 2022-03-23 16:01:51.533 [main] REPORT -  'b' - 10 counts
+[INFO ] 2022-03-23 16:01:51.533 [main] REPORT -  'c' - 12 counts
+[INFO ] 2022-03-23 16:01:51.533 [main] REPORT -  'd' - 17 counts
+[INFO ] 2022-03-23 16:01:51.533 [main] REPORT -  'f' - 10 counts
+[INFO ] 2022-03-23 16:01:51.534 [main] REPORT -  'g' - 17 counts
+[INFO ] 2022-03-23 16:01:51.534 [main] REPORT -  'h' - 22 counts
+[INFO ] 2022-03-23 16:01:51.534 [main] REPORT -  'k' - 8 counts
+[INFO ] 2022-03-23 16:01:51.534 [main] REPORT -  'l' - 32 counts
+[INFO ] 2022-03-23 16:01:51.534 [main] REPORT -  'm' - 10 counts
+[INFO ] 2022-03-23 16:01:51.534 [main] REPORT -  'n' - 39 counts
+[INFO ] 2022-03-23 16:01:51.535 [main] REPORT -  'p' - 15 counts
+[INFO ] 2022-03-23 16:01:51.535 [main] REPORT -  'r' - 28 counts
+[INFO ] 2022-03-23 16:01:51.535 [main] REPORT -  's' - 45 counts
+[INFO ] 2022-03-23 16:01:51.535 [main] REPORT -  't' - 58 counts
+[INFO ] 2022-03-23 16:01:51.535 [main] REPORT -  'v' - 4 counts
+[INFO ] 2022-03-23 16:01:51.536 [main] REPORT -  'w' - 8 counts
+[INFO ] 2022-03-23 16:01:51.536 [main] REPORT -  'y' - 8 counts
+[INFO ] 2022-03-23 16:01:51.620 [main] REPORT - File successfully read with path - 'files/text1.txt'!
+
+[INFO ] 2022-03-23 16:01:51.627 [main] REPORT - 
+ Sort By Length
+[INFO ] 2022-03-23 16:01:51.627 [main] REPORT - 'It is a established fact that a reader will be of a page when looking at its layout... '
+[INFO ] 2022-03-23 16:01:51.627 [main] REPORT - 'Bye бандерлоги.'
+[INFO ] 2022-03-23 16:01:51.628 [main] REPORT - 'It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the "Динамо" (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum! '
+[INFO ] 2022-03-23 16:01:51.628 [main] REPORT - 'It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has a more- or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English? '
+[INFO ] 2022-03-23 16:01:51.639 [main] REPORT - 
+ Sentences with higher word - 'distribution'
+[INFO ] 2022-03-23 16:01:51.639 [main] REPORT - 'The point of using Ipsum is that it has a more- or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English'
+[INFO ] 2022-03-23 16:01:51.642 [main] REPORT - 
+ Remove Sentences if less 5
+[INFO ] 2022-03-23 16:01:51.642 [main] REPORT - '	Bye бандерлоги.' has 2 words
+[INFO ] 2022-03-23 16:01:51.642 [main] REPORT -  
+ sentence is removed 
+[INFO ] 2022-03-23 16:01:51.643 [main] REPORT - '	It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged' has 18 words
+[INFO ] 2022-03-23 16:01:51.645 [main] REPORT - '	It is a established fact that a reader will be of a page when looking at its layout' has 19 words
+[INFO ] 2022-03-23 16:01:51.646 [main] REPORT - '	It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout' has 27 words
+[INFO ] 2022-03-23 16:01:51.646 [main] REPORT - 'It was popularised in the "Динамо" (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum' has 32 words
+[INFO ] 2022-03-23 16:01:51.647 [main] REPORT - 'The point of using Ipsum is that it has a more- or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English' has 35 words
+[INFO ] 2022-03-23 16:01:52.038 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:52.041 [main] REPORT -  'Aldus' - 1 counts
+[INFO ] 2022-03-23 16:01:52.041 [main] REPORT -  'Bye' - 1 counts
+[INFO ] 2022-03-23 16:01:52.042 [main] REPORT -  'Content' - 1 counts
+[INFO ] 2022-03-23 16:01:52.043 [main] REPORT -  'English' - 1 counts
+[INFO ] 2022-03-23 16:01:52.044 [main] REPORT -  'Faclon9' - 1 counts
+[INFO ] 2022-03-23 16:01:52.044 [main] REPORT -  'Ipsum' - 3 counts
+[INFO ] 2022-03-23 16:01:52.044 [main] REPORT -  'It' - 4 counts
+[INFO ] 2022-03-23 16:01:52.045 [main] REPORT -  'Letraset' - 1 counts
+[INFO ] 2022-03-23 16:01:52.045 [main] REPORT -  'Lorem' - 2 counts
+[INFO ] 2022-03-23 16:01:52.048 [main] REPORT -  'PageMaker' - 1 counts
+[INFO ] 2022-03-23 16:01:52.048 [main] REPORT -  'The' - 1 counts
+[INFO ] 2022-03-23 16:01:52.048 [main] REPORT -  'a' - 9 counts
+[INFO ] 2022-03-23 16:01:52.048 [main] REPORT -  'also' - 1 counts
+[INFO ] 2022-03-23 16:01:52.049 [main] REPORT -  'and' - 1 counts
+[INFO ] 2022-03-23 16:01:52.049 [main] REPORT -  'as' - 1 counts
+[INFO ] 2022-03-23 16:01:52.049 [main] REPORT -  'at' - 2 counts
+[INFO ] 2022-03-23 16:01:52.049 [main] REPORT -  'b' - 2 counts
+[INFO ] 2022-03-23 16:01:52.050 [main] REPORT -  'be' - 2 counts
+[INFO ] 2022-03-23 16:01:52.053 [main] REPORT -  'but' - 1 counts
+[INFO ] 2022-03-23 16:01:52.054 [main] REPORT -  'by' - 1 counts
+[INFO ] 2022-03-23 16:01:52.054 [main] REPORT -  'c' - 1 counts
+[INFO ] 2022-03-23 16:01:52.054 [main] REPORT -  'centuries' - 1 counts
+[INFO ] 2022-03-23 16:01:52.055 [main] REPORT -  'containing' - 1 counts
+[INFO ] 2022-03-23 16:01:52.055 [main] REPORT -  'content' - 2 counts
+[INFO ] 2022-03-23 16:01:52.055 [main] REPORT -  'desktop' - 1 counts
+[INFO ] 2022-03-23 16:01:52.058 [main] REPORT -  'distracted' - 1 counts
+[INFO ] 2022-03-23 16:01:52.059 [main] REPORT -  'distribution' - 1 counts
+[INFO ] 2022-03-23 16:01:52.059 [main] REPORT -  'electronic' - 1 counts
+[INFO ] 2022-03-23 16:01:52.059 [main] REPORT -  'essentially' - 1 counts
+[INFO ] 2022-03-23 16:01:52.060 [main] REPORT -  'established' - 2 counts
+[INFO ] 2022-03-23 16:01:52.060 [main] REPORT -  'fact' - 2 counts
+[INFO ] 2022-03-23 16:01:52.060 [main] REPORT -  'five' - 1 counts
+[INFO ] 2022-03-23 16:01:52.061 [main] REPORT -  'has' - 2 counts
+[INFO ] 2022-03-23 16:01:52.061 [main] REPORT -  'here' - 2 counts
+[INFO ] 2022-03-23 16:01:52.061 [main] REPORT -  'in' - 1 counts
+[INFO ] 2022-03-23 16:01:52.061 [main] REPORT -  'including' - 1 counts
+[INFO ] 2022-03-23 16:01:52.062 [main] REPORT -  'into' - 1 counts
+[INFO ] 2022-03-23 16:01:52.062 [main] REPORT -  'is' - 3 counts
+[INFO ] 2022-03-23 16:01:52.062 [main] REPORT -  'it' - 2 counts
+[INFO ] 2022-03-23 16:01:52.063 [main] REPORT -  'its' - 2 counts
+[INFO ] 2022-03-23 16:01:52.063 [main] REPORT -  'layout' - 2 counts
+[INFO ] 2022-03-23 16:01:52.063 [main] REPORT -  'leap' - 1 counts
+[INFO ] 2022-03-23 16:01:52.063 [main] REPORT -  'less' - 1 counts
+[INFO ] 2022-03-23 16:01:52.063 [main] REPORT -  'like' - 2 counts
+[INFO ] 2022-03-23 16:01:52.064 [main] REPORT -  'long' - 1 counts
+[INFO ] 2022-03-23 16:01:52.064 [main] REPORT -  'look' - 1 counts
+[INFO ] 2022-03-23 16:01:52.064 [main] REPORT -  'looking' - 2 counts
+[INFO ] 2022-03-23 16:01:52.064 [main] REPORT -  'making' - 1 counts
+[INFO ] 2022-03-23 16:01:52.064 [main] REPORT -  'more' - 2 counts
+[INFO ] 2022-03-23 16:01:52.065 [main] REPORT -  'normal' - 1 counts
+[INFO ] 2022-03-23 16:01:52.065 [main] REPORT -  'not' - 1 counts
+[INFO ] 2022-03-23 16:01:52.065 [main] REPORT -  'ob' - 1 counts
+[INFO ] 2022-03-23 16:01:52.065 [main] REPORT -  'of' - 5 counts
+[INFO ] 2022-03-23 16:01:52.066 [main] REPORT -  'only' - 1 counts
+[INFO ] 2022-03-23 16:01:52.066 [main] REPORT -  'opposed' - 1 counts
+[INFO ] 2022-03-23 16:01:52.066 [main] REPORT -  'or' - 1 counts
+[INFO ] 2022-03-23 16:01:52.066 [main] REPORT -  'page' - 2 counts
+[INFO ] 2022-03-23 16:01:52.066 [main] REPORT -  'passages' - 1 counts
+[INFO ] 2022-03-23 16:01:52.067 [main] REPORT -  'point' - 1 counts
+[INFO ] 2022-03-23 16:01:52.067 [main] REPORT -  'popularised' - 1 counts
+[INFO ] 2022-03-23 16:01:52.067 [main] REPORT -  'publishing' - 1 counts
+[INFO ] 2022-03-23 16:01:52.067 [main] REPORT -  'readable' - 2 counts
+[INFO ] 2022-03-23 16:01:52.067 [main] REPORT -  'reader' - 2 counts
+[INFO ] 2022-03-23 16:01:52.068 [main] REPORT -  'recently' - 1 counts
+[INFO ] 2022-03-23 16:01:52.068 [main] REPORT -  'release' - 1 counts
+[INFO ] 2022-03-23 16:01:52.068 [main] REPORT -  'remaining' - 1 counts
+[INFO ] 2022-03-23 16:01:52.068 [main] REPORT -  's' - 1 counts
+[INFO ] 2022-03-23 16:01:52.068 [main] REPORT -  'sheets' - 1 counts
+[INFO ] 2022-03-23 16:01:52.069 [main] REPORT -  'software' - 1 counts
+[INFO ] 2022-03-23 16:01:52.069 [main] REPORT -  'survived' - 1 counts
+[INFO ] 2022-03-23 16:01:52.069 [main] REPORT -  'that' - 3 counts
+[INFO ] 2022-03-23 16:01:52.069 [main] REPORT -  'the' - 4 counts
+[INFO ] 2022-03-23 16:01:52.070 [main] REPORT -  'to' - 1 counts
+[INFO ] 2022-03-23 16:01:52.070 [main] REPORT -  'toString' - 2 counts
+[INFO ] 2022-03-23 16:01:52.070 [main] REPORT -  'typesetting' - 1 counts
+[INFO ] 2022-03-23 16:01:52.070 [main] REPORT -  'unchanged' - 1 counts
+[INFO ] 2022-03-23 16:01:52.071 [main] REPORT -  'using' - 2 counts
+[INFO ] 2022-03-23 16:01:52.071 [main] REPORT -  'versions' - 1 counts
+[INFO ] 2022-03-23 16:01:52.071 [main] REPORT -  'was' - 1 counts
+[INFO ] 2022-03-23 16:01:52.074 [main] REPORT -  'when' - 2 counts
+[INFO ] 2022-03-23 16:01:52.074 [main] REPORT -  'will' - 2 counts
+[INFO ] 2022-03-23 16:01:52.074 [main] REPORT -  'with' - 2 counts
+[INFO ] 2022-03-23 16:01:52.076 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:52.077 [main] REPORT -  'A' - 1 counts
+[INFO ] 2022-03-23 16:01:52.077 [main] REPORT -  'E' - 1 counts
+[INFO ] 2022-03-23 16:01:52.077 [main] REPORT -  'I' - 7 counts
+[INFO ] 2022-03-23 16:01:52.078 [main] REPORT -  'a' - 51 counts
+[INFO ] 2022-03-23 16:01:52.078 [main] REPORT -  'e' - 69 counts
+[INFO ] 2022-03-23 16:01:52.078 [main] REPORT -  'i' - 46 counts
+[INFO ] 2022-03-23 16:01:52.079 [main] REPORT -  'o' - 42 counts
+[INFO ] 2022-03-23 16:01:52.079 [main] REPORT -  'u' - 16 counts
+[INFO ] 2022-03-23 16:01:52.081 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:52.081 [main] REPORT -  'B' - 1 counts
+[INFO ] 2022-03-23 16:01:52.082 [main] REPORT -  'C' - 1 counts
+[INFO ] 2022-03-23 16:01:52.082 [main] REPORT -  'F' - 1 counts
+[INFO ] 2022-03-23 16:01:52.082 [main] REPORT -  'L' - 3 counts
+[INFO ] 2022-03-23 16:01:52.082 [main] REPORT -  'M' - 1 counts
+[INFO ] 2022-03-23 16:01:52.083 [main] REPORT -  'P' - 1 counts
+[INFO ] 2022-03-23 16:01:52.083 [main] REPORT -  'S' - 2 counts
+[INFO ] 2022-03-23 16:01:52.083 [main] REPORT -  'T' - 1 counts
+[INFO ] 2022-03-23 16:01:52.083 [main] REPORT -  '[' - 1 counts
+[INFO ] 2022-03-23 16:01:52.084 [main] REPORT -  'b' - 13 counts
+[INFO ] 2022-03-23 16:01:52.084 [main] REPORT -  'c' - 14 counts
+[INFO ] 2022-03-23 16:01:52.084 [main] REPORT -  'd' - 17 counts
+[INFO ] 2022-03-23 16:01:52.084 [main] REPORT -  'f' - 9 counts
+[INFO ] 2022-03-23 16:01:52.084 [main] REPORT -  'g' - 19 counts
+[INFO ] 2022-03-23 16:01:52.085 [main] REPORT -  'h' - 22 counts
+[INFO ] 2022-03-23 16:01:52.085 [main] REPORT -  'k' - 8 counts
+[INFO ] 2022-03-23 16:01:52.085 [main] REPORT -  'l' - 32 counts
+[INFO ] 2022-03-23 16:01:52.085 [main] REPORT -  'm' - 10 counts
+[INFO ] 2022-03-23 16:01:52.085 [main] REPORT -  'n' - 42 counts
+[INFO ] 2022-03-23 16:01:52.086 [main] REPORT -  'p' - 15 counts
+[INFO ] 2022-03-23 16:01:52.086 [main] REPORT -  'r' - 29 counts
+[INFO ] 2022-03-23 16:01:52.086 [main] REPORT -  's' - 45 counts
+[INFO ] 2022-03-23 16:01:52.086 [main] REPORT -  't' - 60 counts
+[INFO ] 2022-03-23 16:01:52.087 [main] REPORT -  'v' - 4 counts
+[INFO ] 2022-03-23 16:01:52.087 [main] REPORT -  'w' - 8 counts
+[INFO ] 2022-03-23 16:01:52.087 [main] REPORT -  'y' - 8 counts
+[INFO ] 2022-03-23 16:01:52.104 [main] REPORT - File successfully read with path - 'files/text2.txt'!
+
+[INFO ] 2022-03-23 16:01:52.107 [main] REPORT - 
+ Sort By Length
+[INFO ] 2022-03-23 16:01:52.107 [main] REPORT - 'It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout. '
+[INFO ] 2022-03-23 16:01:52.107 [main] REPORT - 'Bye.'
+[INFO ] 2022-03-23 16:01:52.108 [main] REPORT - 'It has survived - not only (five) centuries, but also the leap into 13++ + ++2 electronic typesetting, remaining 3>>5 essentially ~6&9|(3&4) unchanged. It was popularised in the 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. '
+[INFO ] 2022-03-23 16:01:52.108 [main] REPORT - 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English. '
+[INFO ] 2022-03-23 16:01:52.113 [main] REPORT - 
+ Sentences with higher word - 'distribution'
+[INFO ] 2022-03-23 16:01:52.113 [main] REPORT - 'The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English'
+[INFO ] 2022-03-23 16:01:52.115 [main] REPORT - 
+ Remove Sentences if less 7
+[INFO ] 2022-03-23 16:01:52.115 [main] REPORT - '	Bye.' has 2 words
+[INFO ] 2022-03-23 16:01:52.115 [main] REPORT -  
+ sentence is removed 
+[INFO ] 2022-03-23 16:01:52.116 [main] REPORT - '	It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout' has 25 words
+[INFO ] 2022-03-23 16:01:52.116 [main] REPORT - '	It has survived - not only (five) centuries, but also the leap into 13++ + ++2 electronic typesetting, remaining 3>>5 essentially ~6&9|(3&4) unchanged' has 26 words
+[INFO ] 2022-03-23 16:01:52.116 [main] REPORT - '	It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout' has 28 words
+[INFO ] 2022-03-23 16:01:52.116 [main] REPORT - 'The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English' has 43 words
+[INFO ] 2022-03-23 16:01:52.116 [main] REPORT - 'It was popularised in the 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum' has 45 words
+[INFO ] 2022-03-23 16:01:52.351 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:52.351 [main] REPORT -  '1' - 5 counts
+[INFO ] 2022-03-23 16:01:52.351 [main] REPORT -  '10' - 1 counts
+[INFO ] 2022-03-23 16:01:52.352 [main] REPORT -  '1200' - 1 counts
+[INFO ] 2022-03-23 16:01:52.352 [main] REPORT -  '13' - 1 counts
+[INFO ] 2022-03-23 16:01:52.352 [main] REPORT -  '2' - 11 counts
+[INFO ] 2022-03-23 16:01:52.352 [main] REPORT -  '3' - 6 counts
+[INFO ] 2022-03-23 16:01:52.352 [main] REPORT -  '4' - 3 counts
+[INFO ] 2022-03-23 16:01:52.352 [main] REPORT -  '42' - 1 counts
+[INFO ] 2022-03-23 16:01:52.353 [main] REPORT -  '47' - 1 counts
+[INFO ] 2022-03-23 16:01:52.353 [main] REPORT -  '5' - 5 counts
+[INFO ] 2022-03-23 16:01:52.353 [main] REPORT -  '6' - 2 counts
+[INFO ] 2022-03-23 16:01:52.353 [main] REPORT -  '7' - 2 counts
+[INFO ] 2022-03-23 16:01:52.353 [main] REPORT -  '71' - 2 counts
+[INFO ] 2022-03-23 16:01:52.354 [main] REPORT -  '78' - 1 counts
+[INFO ] 2022-03-23 16:01:52.354 [main] REPORT -  '89' - 1 counts
+[INFO ] 2022-03-23 16:01:52.354 [main] REPORT -  '9' - 1 counts
+[INFO ] 2022-03-23 16:01:52.354 [main] REPORT -  'Aldus' - 1 counts
+[INFO ] 2022-03-23 16:01:52.354 [main] REPORT -  'Bye' - 1 counts
+[INFO ] 2022-03-23 16:01:52.355 [main] REPORT -  'Content' - 1 counts
+[INFO ] 2022-03-23 16:01:52.355 [main] REPORT -  'English' - 1 counts
+[INFO ] 2022-03-23 16:01:52.355 [main] REPORT -  'Ipsum' - 3 counts
+[INFO ] 2022-03-23 16:01:52.355 [main] REPORT -  'It' - 4 counts
+[INFO ] 2022-03-23 16:01:52.356 [main] REPORT -  'Letraset' - 1 counts
+[INFO ] 2022-03-23 16:01:52.356 [main] REPORT -  'Lorem' - 2 counts
+[INFO ] 2022-03-23 16:01:52.356 [main] REPORT -  'PageMaker' - 1 counts
+[INFO ] 2022-03-23 16:01:52.356 [main] REPORT -  'The' - 1 counts
+[INFO ] 2022-03-23 16:01:52.356 [main] REPORT -  'a' - 7 counts
+[INFO ] 2022-03-23 16:01:52.356 [main] REPORT -  'also' - 1 counts
+[INFO ] 2022-03-23 16:01:52.357 [main] REPORT -  'and' - 1 counts
+[INFO ] 2022-03-23 16:01:52.357 [main] REPORT -  'as' - 1 counts
+[INFO ] 2022-03-23 16:01:52.357 [main] REPORT -  'at' - 2 counts
+[INFO ] 2022-03-23 16:01:52.357 [main] REPORT -  'be' - 2 counts
+[INFO ] 2022-03-23 16:01:52.357 [main] REPORT -  'but' - 1 counts
+[INFO ] 2022-03-23 16:01:52.358 [main] REPORT -  'by' - 1 counts
+[INFO ] 2022-03-23 16:01:52.358 [main] REPORT -  'centuries' - 1 counts
+[INFO ] 2022-03-23 16:01:52.358 [main] REPORT -  'containing' - 1 counts
+[INFO ] 2022-03-23 16:01:52.358 [main] REPORT -  'content' - 2 counts
+[INFO ] 2022-03-23 16:01:52.358 [main] REPORT -  'desktop' - 1 counts
+[INFO ] 2022-03-23 16:01:52.359 [main] REPORT -  'distracted' - 1 counts
+[INFO ] 2022-03-23 16:01:52.359 [main] REPORT -  'distribution' - 1 counts
+[INFO ] 2022-03-23 16:01:52.359 [main] REPORT -  'electronic' - 1 counts
+[INFO ] 2022-03-23 16:01:52.359 [main] REPORT -  'essentially' - 1 counts
+[INFO ] 2022-03-23 16:01:52.359 [main] REPORT -  'established' - 2 counts
+[INFO ] 2022-03-23 16:01:52.360 [main] REPORT -  'fact' - 2 counts
+[INFO ] 2022-03-23 16:01:52.360 [main] REPORT -  'five' - 1 counts
+[INFO ] 2022-03-23 16:01:52.360 [main] REPORT -  'has' - 2 counts
+[INFO ] 2022-03-23 16:01:52.360 [main] REPORT -  'here' - 2 counts
+[INFO ] 2022-03-23 16:01:52.360 [main] REPORT -  'in' - 1 counts
+[INFO ] 2022-03-23 16:01:52.361 [main] REPORT -  'including' - 1 counts
+[INFO ] 2022-03-23 16:01:52.361 [main] REPORT -  'into' - 1 counts
+[INFO ] 2022-03-23 16:01:52.361 [main] REPORT -  'is' - 3 counts
+[INFO ] 2022-03-23 16:01:52.361 [main] REPORT -  'it' - 2 counts
+[INFO ] 2022-03-23 16:01:52.361 [main] REPORT -  'its' - 2 counts
+[INFO ] 2022-03-23 16:01:52.362 [main] REPORT -  'layout' - 2 counts
+[INFO ] 2022-03-23 16:01:52.362 [main] REPORT -  'leap' - 1 counts
+[INFO ] 2022-03-23 16:01:52.362 [main] REPORT -  'less' - 1 counts
+[INFO ] 2022-03-23 16:01:52.362 [main] REPORT -  'letters' - 1 counts
+[INFO ] 2022-03-23 16:01:52.362 [main] REPORT -  'like' - 2 counts
+[INFO ] 2022-03-23 16:01:52.363 [main] REPORT -  'long' - 1 counts
+[INFO ] 2022-03-23 16:01:52.363 [main] REPORT -  'look' - 1 counts
+[INFO ] 2022-03-23 16:01:52.367 [main] REPORT -  'looking' - 2 counts
+[INFO ] 2022-03-23 16:01:52.368 [main] REPORT -  'making' - 1 counts
+[INFO ] 2022-03-23 16:01:52.368 [main] REPORT -  'more' - 2 counts
+[INFO ] 2022-03-23 16:01:52.369 [main] REPORT -  'normal' - 1 counts
+[INFO ] 2022-03-23 16:01:52.369 [main] REPORT -  'not' - 1 counts
+[INFO ] 2022-03-23 16:01:52.369 [main] REPORT -  'of' - 6 counts
+[INFO ] 2022-03-23 16:01:52.369 [main] REPORT -  'only' - 1 counts
+[INFO ] 2022-03-23 16:01:52.369 [main] REPORT -  'opposed' - 1 counts
+[INFO ] 2022-03-23 16:01:52.370 [main] REPORT -  'or' - 1 counts
+[INFO ] 2022-03-23 16:01:52.370 [main] REPORT -  'page' - 2 counts
+[INFO ] 2022-03-23 16:01:52.371 [main] REPORT -  'passages' - 1 counts
+[INFO ] 2022-03-23 16:01:52.371 [main] REPORT -  'point' - 1 counts
+[INFO ] 2022-03-23 16:01:52.371 [main] REPORT -  'popularised' - 1 counts
+[INFO ] 2022-03-23 16:01:52.371 [main] REPORT -  'publishing' - 1 counts
+[INFO ] 2022-03-23 16:01:52.372 [main] REPORT -  'readable' - 2 counts
+[INFO ] 2022-03-23 16:01:52.372 [main] REPORT -  'reader' - 2 counts
+[INFO ] 2022-03-23 16:01:52.372 [main] REPORT -  'recently' - 1 counts
+[INFO ] 2022-03-23 16:01:52.372 [main] REPORT -  'release' - 1 counts
+[INFO ] 2022-03-23 16:01:52.372 [main] REPORT -  'remaining' - 1 counts
+[INFO ] 2022-03-23 16:01:52.373 [main] REPORT -  'sheets' - 1 counts
+[INFO ] 2022-03-23 16:01:52.373 [main] REPORT -  'software' - 1 counts
+[INFO ] 2022-03-23 16:01:52.373 [main] REPORT -  'survived' - 1 counts
+[INFO ] 2022-03-23 16:01:52.373 [main] REPORT -  'that' - 3 counts
+[INFO ] 2022-03-23 16:01:52.373 [main] REPORT -  'the' - 4 counts
+[INFO ] 2022-03-23 16:01:52.374 [main] REPORT -  'to' - 1 counts
+[INFO ] 2022-03-23 16:01:52.374 [main] REPORT -  'typesetting' - 1 counts
+[INFO ] 2022-03-23 16:01:52.374 [main] REPORT -  'unchanged' - 1 counts
+[INFO ] 2022-03-23 16:01:52.374 [main] REPORT -  'using' - 2 counts
+[INFO ] 2022-03-23 16:01:52.375 [main] REPORT -  'versions' - 1 counts
+[INFO ] 2022-03-23 16:01:52.375 [main] REPORT -  'was' - 1 counts
+[INFO ] 2022-03-23 16:01:52.375 [main] REPORT -  'when' - 2 counts
+[INFO ] 2022-03-23 16:01:52.375 [main] REPORT -  'will' - 2 counts
+[INFO ] 2022-03-23 16:01:52.375 [main] REPORT -  'with' - 2 counts
+[INFO ] 2022-03-23 16:01:52.377 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:52.377 [main] REPORT -  'A' - 1 counts
+[INFO ] 2022-03-23 16:01:52.377 [main] REPORT -  'E' - 1 counts
+[INFO ] 2022-03-23 16:01:52.377 [main] REPORT -  'I' - 7 counts
+[INFO ] 2022-03-23 16:01:52.377 [main] REPORT -  'a' - 48 counts
+[INFO ] 2022-03-23 16:01:52.378 [main] REPORT -  'e' - 71 counts
+[INFO ] 2022-03-23 16:01:52.378 [main] REPORT -  'i' - 44 counts
+[INFO ] 2022-03-23 16:01:52.378 [main] REPORT -  'o' - 39 counts
+[INFO ] 2022-03-23 16:01:52.378 [main] REPORT -  'u' - 16 counts
+[INFO ] 2022-03-23 16:01:52.380 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-03-23 16:01:52.380 [main] REPORT -  '0' - 3 counts
+[INFO ] 2022-03-23 16:01:52.381 [main] REPORT -  'B' - 1 counts
+[INFO ] 2022-03-23 16:01:52.381 [main] REPORT -  'C' - 1 counts
+[INFO ] 2022-03-23 16:01:52.381 [main] REPORT -  'L' - 3 counts
+[INFO ] 2022-03-23 16:01:52.381 [main] REPORT -  'M' - 1 counts
+[INFO ] 2022-03-23 16:01:52.381 [main] REPORT -  'P' - 1 counts
+[INFO ] 2022-03-23 16:01:52.382 [main] REPORT -  'T' - 1 counts
+[INFO ] 2022-03-23 16:01:52.382 [main] REPORT -  '[' - 1 counts
+[INFO ] 2022-03-23 16:01:52.382 [main] REPORT -  'b' - 10 counts
+[INFO ] 2022-03-23 16:01:52.382 [main] REPORT -  'c' - 12 counts
+[INFO ] 2022-03-23 16:01:52.382 [main] REPORT -  'd' - 17 counts
+[INFO ] 2022-03-23 16:01:52.383 [main] REPORT -  'f' - 10 counts
+[INFO ] 2022-03-23 16:01:52.383 [main] REPORT -  'g' - 17 counts
+[INFO ] 2022-03-23 16:01:52.383 [main] REPORT -  'h' - 22 counts
+[INFO ] 2022-03-23 16:01:52.383 [main] REPORT -  'k' - 8 counts
+[INFO ] 2022-03-23 16:01:52.383 [main] REPORT -  'l' - 32 counts
+[INFO ] 2022-03-23 16:01:52.384 [main] REPORT -  'm' - 10 counts
+[INFO ] 2022-03-23 16:01:52.384 [main] REPORT -  'n' - 39 counts
+[INFO ] 2022-03-23 16:01:52.384 [main] REPORT -  'p' - 15 counts
+[INFO ] 2022-03-23 16:01:52.384 [main] REPORT -  'r' - 28 counts
+[INFO ] 2022-03-23 16:01:52.384 [main] REPORT -  's' - 45 counts
+[INFO ] 2022-03-23 16:01:52.384 [main] REPORT -  't' - 58 counts
+[INFO ] 2022-03-23 16:01:52.385 [main] REPORT -  'v' - 4 counts
+[INFO ] 2022-03-23 16:01:52.385 [main] REPORT -  'w' - 8 counts
+[INFO ] 2022-03-23 16:01:52.385 [main] REPORT -  'y' - 8 counts
+[INFO ] 2022-09-15 20:10:47.572 [main] REPORT - File successfully read with path - 'files/text3.txt'!
+
+[INFO ] 2022-09-15 20:10:47.596 [main] REPORT - 
+ Sort By Length
+[INFO ] 2022-09-15 20:10:47.597 [main] REPORT - 'It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking at its layout. '
+[INFO ] 2022-09-15 20:10:47.598 [main] REPORT - 'Bye.'
+[INFO ] 2022-09-15 20:10:47.598 [main] REPORT - 'It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/(3+4) unchanged. It was popularised in the 5*(1+2*(3/(4-(1-56- 47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. '
+[INFO ] 2022-09-15 20:10:47.598 [main] REPORT - 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English. '
+[INFO ] 2022-09-15 20:10:47.605 [main] REPORT - 
+ Sentences with higher word - 'distribution'
+[INFO ] 2022-09-15 20:10:47.607 [main] REPORT - 'The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English'
+[INFO ] 2022-09-15 20:10:47.610 [main] REPORT - 
+ Remove Sentences if less 11
+[INFO ] 2022-09-15 20:10:47.613 [main] REPORT - '	Bye.' has 2 words
+[INFO ] 2022-09-15 20:10:47.614 [main] REPORT -  
+ sentence is removed 
+[INFO ] 2022-09-15 20:10:47.614 [main] REPORT - '	It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining -3-5 essentially 6*9/(3+4) unchanged' has 24 words
+[INFO ] 2022-09-15 20:10:47.614 [main] REPORT - '	It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout' has 25 words
+[INFO ] 2022-09-15 20:10:47.615 [main] REPORT - '	It is a (7+5*12*(2+5-2-71))/12 established fact that a reader will be of a page when looking at its layout' has 27 words
+[INFO ] 2022-09-15 20:10:47.616 [main] REPORT - 'The point of using (-71+(2+3/(3*(2+1/2+2)-2)/10+2))/7 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English' has 43 words
+[INFO ] 2022-09-15 20:10:47.616 [main] REPORT - 'It was popularised in the 5*(1+2*(3/(4-(1-56- 47)*73)+(-89+4/(42/7)))+1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum' has 44 words
+[INFO ] 2022-09-15 20:10:47.693 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:47.696 [main] REPORT -  '1' - 4 counts
+[INFO ] 2022-09-15 20:10:47.696 [main] REPORT -  '10' - 1 counts
+[INFO ] 2022-09-15 20:10:47.697 [main] REPORT -  '12' - 2 counts
+[INFO ] 2022-09-15 20:10:47.697 [main] REPORT -  '2' - 9 counts
+[INFO ] 2022-09-15 20:10:47.705 [main] REPORT -  '3' - 5 counts
+[INFO ] 2022-09-15 20:10:47.706 [main] REPORT -  '4' - 3 counts
+[INFO ] 2022-09-15 20:10:47.707 [main] REPORT -  '42' - 1 counts
+[INFO ] 2022-09-15 20:10:47.707 [main] REPORT -  '47' - 1 counts
+[INFO ] 2022-09-15 20:10:47.708 [main] REPORT -  '5' - 4 counts
+[INFO ] 2022-09-15 20:10:47.708 [main] REPORT -  '56' - 1 counts
+[INFO ] 2022-09-15 20:10:47.708 [main] REPORT -  '6' - 1 counts
+[INFO ] 2022-09-15 20:10:47.710 [main] REPORT -  '7' - 3 counts
+[INFO ] 2022-09-15 20:10:47.712 [main] REPORT -  '71' - 2 counts
+[INFO ] 2022-09-15 20:10:47.713 [main] REPORT -  '73' - 1 counts
+[INFO ] 2022-09-15 20:10:47.713 [main] REPORT -  '89' - 1 counts
+[INFO ] 2022-09-15 20:10:47.714 [main] REPORT -  '9' - 1 counts
+[INFO ] 2022-09-15 20:10:47.714 [main] REPORT -  'Aldus' - 1 counts
+[INFO ] 2022-09-15 20:10:47.715 [main] REPORT -  'Bye' - 1 counts
+[INFO ] 2022-09-15 20:10:47.715 [main] REPORT -  'Content' - 1 counts
+[INFO ] 2022-09-15 20:10:47.715 [main] REPORT -  'English' - 1 counts
+[INFO ] 2022-09-15 20:10:47.716 [main] REPORT -  'Ipsum' - 3 counts
+[INFO ] 2022-09-15 20:10:47.716 [main] REPORT -  'It' - 4 counts
+[INFO ] 2022-09-15 20:10:47.717 [main] REPORT -  'Letraset' - 1 counts
+[INFO ] 2022-09-15 20:10:47.717 [main] REPORT -  'Lorem' - 2 counts
+[INFO ] 2022-09-15 20:10:47.717 [main] REPORT -  'PageMaker' - 1 counts
+[INFO ] 2022-09-15 20:10:47.718 [main] REPORT -  'The' - 1 counts
+[INFO ] 2022-09-15 20:10:47.718 [main] REPORT -  'a' - 7 counts
+[INFO ] 2022-09-15 20:10:47.719 [main] REPORT -  'also' - 1 counts
+[INFO ] 2022-09-15 20:10:47.719 [main] REPORT -  'and' - 1 counts
+[INFO ] 2022-09-15 20:10:47.721 [main] REPORT -  'as' - 1 counts
+[INFO ] 2022-09-15 20:10:47.721 [main] REPORT -  'at' - 2 counts
+[INFO ] 2022-09-15 20:10:47.721 [main] REPORT -  'be' - 2 counts
+[INFO ] 2022-09-15 20:10:47.722 [main] REPORT -  'but' - 1 counts
+[INFO ] 2022-09-15 20:10:47.722 [main] REPORT -  'by' - 1 counts
+[INFO ] 2022-09-15 20:10:47.723 [main] REPORT -  'centuries' - 1 counts
+[INFO ] 2022-09-15 20:10:47.724 [main] REPORT -  'containing' - 1 counts
+[INFO ] 2022-09-15 20:10:47.724 [main] REPORT -  'content' - 2 counts
+[INFO ] 2022-09-15 20:10:47.725 [main] REPORT -  'desktop' - 1 counts
+[INFO ] 2022-09-15 20:10:47.725 [main] REPORT -  'distracted' - 1 counts
+[INFO ] 2022-09-15 20:10:47.726 [main] REPORT -  'distribution' - 1 counts
+[INFO ] 2022-09-15 20:10:47.726 [main] REPORT -  'electronic' - 1 counts
+[INFO ] 2022-09-15 20:10:47.726 [main] REPORT -  'essentially' - 1 counts
+[INFO ] 2022-09-15 20:10:47.727 [main] REPORT -  'established' - 2 counts
+[INFO ] 2022-09-15 20:10:47.727 [main] REPORT -  'fact' - 2 counts
+[INFO ] 2022-09-15 20:10:47.727 [main] REPORT -  'five' - 1 counts
+[INFO ] 2022-09-15 20:10:47.728 [main] REPORT -  'has' - 2 counts
+[INFO ] 2022-09-15 20:10:47.729 [main] REPORT -  'here' - 2 counts
+[INFO ] 2022-09-15 20:10:47.730 [main] REPORT -  'in' - 1 counts
+[INFO ] 2022-09-15 20:10:47.730 [main] REPORT -  'including' - 1 counts
+[INFO ] 2022-09-15 20:10:47.730 [main] REPORT -  'into' - 1 counts
+[INFO ] 2022-09-15 20:10:47.731 [main] REPORT -  'is' - 3 counts
+[INFO ] 2022-09-15 20:10:47.731 [main] REPORT -  'it' - 2 counts
+[INFO ] 2022-09-15 20:10:47.731 [main] REPORT -  'its' - 2 counts
+[INFO ] 2022-09-15 20:10:47.731 [main] REPORT -  'layout' - 2 counts
+[INFO ] 2022-09-15 20:10:47.732 [main] REPORT -  'leap' - 1 counts
+[INFO ] 2022-09-15 20:10:47.734 [main] REPORT -  'less' - 1 counts
+[INFO ] 2022-09-15 20:10:47.737 [main] REPORT -  'letters' - 1 counts
+[INFO ] 2022-09-15 20:10:47.738 [main] REPORT -  'like' - 2 counts
+[INFO ] 2022-09-15 20:10:47.738 [main] REPORT -  'long' - 1 counts
+[INFO ] 2022-09-15 20:10:47.739 [main] REPORT -  'look' - 1 counts
+[INFO ] 2022-09-15 20:10:47.739 [main] REPORT -  'looking' - 2 counts
+[INFO ] 2022-09-15 20:10:47.739 [main] REPORT -  'making' - 1 counts
+[INFO ] 2022-09-15 20:10:47.740 [main] REPORT -  'more' - 2 counts
+[INFO ] 2022-09-15 20:10:47.740 [main] REPORT -  'normal' - 1 counts
+[INFO ] 2022-09-15 20:10:47.741 [main] REPORT -  'not' - 1 counts
+[INFO ] 2022-09-15 20:10:47.741 [main] REPORT -  'of' - 6 counts
+[INFO ] 2022-09-15 20:10:47.741 [main] REPORT -  'only' - 1 counts
+[INFO ] 2022-09-15 20:10:47.742 [main] REPORT -  'opposed' - 1 counts
+[INFO ] 2022-09-15 20:10:47.742 [main] REPORT -  'or' - 1 counts
+[INFO ] 2022-09-15 20:10:47.742 [main] REPORT -  'page' - 2 counts
+[INFO ] 2022-09-15 20:10:47.743 [main] REPORT -  'passages' - 1 counts
+[INFO ] 2022-09-15 20:10:47.743 [main] REPORT -  'point' - 1 counts
+[INFO ] 2022-09-15 20:10:47.744 [main] REPORT -  'popularised' - 1 counts
+[INFO ] 2022-09-15 20:10:47.745 [main] REPORT -  'publishing' - 1 counts
+[INFO ] 2022-09-15 20:10:47.746 [main] REPORT -  'readable' - 2 counts
+[INFO ] 2022-09-15 20:10:47.746 [main] REPORT -  'reader' - 2 counts
+[INFO ] 2022-09-15 20:10:47.747 [main] REPORT -  'recently' - 1 counts
+[INFO ] 2022-09-15 20:10:47.747 [main] REPORT -  'release' - 1 counts
+[INFO ] 2022-09-15 20:10:47.747 [main] REPORT -  'remaining' - 1 counts
+[INFO ] 2022-09-15 20:10:47.748 [main] REPORT -  'sheets' - 1 counts
+[INFO ] 2022-09-15 20:10:47.749 [main] REPORT -  'software' - 1 counts
+[INFO ] 2022-09-15 20:10:47.749 [main] REPORT -  'survived' - 1 counts
+[INFO ] 2022-09-15 20:10:47.750 [main] REPORT -  'that' - 3 counts
+[INFO ] 2022-09-15 20:10:47.750 [main] REPORT -  'the' - 4 counts
+[INFO ] 2022-09-15 20:10:47.750 [main] REPORT -  'to' - 1 counts
+[INFO ] 2022-09-15 20:10:47.751 [main] REPORT -  'typesetting' - 1 counts
+[INFO ] 2022-09-15 20:10:47.751 [main] REPORT -  'unchanged' - 1 counts
+[INFO ] 2022-09-15 20:10:47.751 [main] REPORT -  'using' - 2 counts
+[INFO ] 2022-09-15 20:10:47.752 [main] REPORT -  'versions' - 1 counts
+[INFO ] 2022-09-15 20:10:47.752 [main] REPORT -  'was' - 1 counts
+[INFO ] 2022-09-15 20:10:47.752 [main] REPORT -  'when' - 2 counts
+[INFO ] 2022-09-15 20:10:47.752 [main] REPORT -  'will' - 2 counts
+[INFO ] 2022-09-15 20:10:47.753 [main] REPORT -  'with' - 2 counts
+[INFO ] 2022-09-15 20:10:47.756 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:47.756 [main] REPORT -  'A' - 1 counts
+[INFO ] 2022-09-15 20:10:47.757 [main] REPORT -  'E' - 1 counts
+[INFO ] 2022-09-15 20:10:47.757 [main] REPORT -  'I' - 7 counts
+[INFO ] 2022-09-15 20:10:47.757 [main] REPORT -  'a' - 48 counts
+[INFO ] 2022-09-15 20:10:47.757 [main] REPORT -  'e' - 71 counts
+[INFO ] 2022-09-15 20:10:47.758 [main] REPORT -  'i' - 44 counts
+[INFO ] 2022-09-15 20:10:47.758 [main] REPORT -  'o' - 39 counts
+[INFO ] 2022-09-15 20:10:47.758 [main] REPORT -  'u' - 16 counts
+[INFO ] 2022-09-15 20:10:47.760 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:47.760 [main] REPORT -  '0' - 1 counts
+[INFO ] 2022-09-15 20:10:47.761 [main] REPORT -  'B' - 1 counts
+[INFO ] 2022-09-15 20:10:47.761 [main] REPORT -  'C' - 1 counts
+[INFO ] 2022-09-15 20:10:47.761 [main] REPORT -  'L' - 3 counts
+[INFO ] 2022-09-15 20:10:47.762 [main] REPORT -  'M' - 1 counts
+[INFO ] 2022-09-15 20:10:47.762 [main] REPORT -  'P' - 1 counts
+[INFO ] 2022-09-15 20:10:47.762 [main] REPORT -  'T' - 1 counts
+[INFO ] 2022-09-15 20:10:47.763 [main] REPORT -  '[' - 1 counts
+[INFO ] 2022-09-15 20:10:47.763 [main] REPORT -  'b' - 10 counts
+[INFO ] 2022-09-15 20:10:47.764 [main] REPORT -  'c' - 12 counts
+[INFO ] 2022-09-15 20:10:47.764 [main] REPORT -  'd' - 17 counts
+[INFO ] 2022-09-15 20:10:47.764 [main] REPORT -  'f' - 10 counts
+[INFO ] 2022-09-15 20:10:47.764 [main] REPORT -  'g' - 17 counts
+[INFO ] 2022-09-15 20:10:47.765 [main] REPORT -  'h' - 22 counts
+[INFO ] 2022-09-15 20:10:47.765 [main] REPORT -  'k' - 8 counts
+[INFO ] 2022-09-15 20:10:47.765 [main] REPORT -  'l' - 32 counts
+[INFO ] 2022-09-15 20:10:47.766 [main] REPORT -  'm' - 10 counts
+[INFO ] 2022-09-15 20:10:47.767 [main] REPORT -  'n' - 39 counts
+[INFO ] 2022-09-15 20:10:47.767 [main] REPORT -  'p' - 15 counts
+[INFO ] 2022-09-15 20:10:47.767 [main] REPORT -  'r' - 28 counts
+[INFO ] 2022-09-15 20:10:47.767 [main] REPORT -  's' - 45 counts
+[INFO ] 2022-09-15 20:10:47.767 [main] REPORT -  't' - 58 counts
+[INFO ] 2022-09-15 20:10:47.768 [main] REPORT -  'v' - 4 counts
+[INFO ] 2022-09-15 20:10:47.768 [main] REPORT -  'w' - 8 counts
+[INFO ] 2022-09-15 20:10:47.768 [main] REPORT -  'y' - 8 counts
+[INFO ] 2022-09-15 20:10:47.813 [main] REPORT - File successfully read with path - 'files/text1.txt'!
+
+[INFO ] 2022-09-15 20:10:47.818 [main] REPORT - 
+ Sort By Length
+[INFO ] 2022-09-15 20:10:47.818 [main] REPORT - 'It is a established fact that a reader will be of a page when looking at its layout... '
+[INFO ] 2022-09-15 20:10:47.819 [main] REPORT - 'Bye бандерлоги.'
+[INFO ] 2022-09-15 20:10:47.819 [main] REPORT - 'It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the "Динамо" (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum! '
+[INFO ] 2022-09-15 20:10:47.820 [main] REPORT - 'It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has a more- or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English? '
+[INFO ] 2022-09-15 20:10:47.821 [main] REPORT - 
+ Sentences with higher word - 'distribution'
+[INFO ] 2022-09-15 20:10:47.821 [main] REPORT - 'The point of using Ipsum is that it has a more- or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English'
+[INFO ] 2022-09-15 20:10:47.823 [main] REPORT - 
+ Remove Sentences if less 5
+[INFO ] 2022-09-15 20:10:47.823 [main] REPORT - '	Bye бандерлоги.' has 2 words
+[INFO ] 2022-09-15 20:10:47.823 [main] REPORT -  
+ sentence is removed 
+[INFO ] 2022-09-15 20:10:47.824 [main] REPORT - '	It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged' has 18 words
+[INFO ] 2022-09-15 20:10:47.824 [main] REPORT - '	It is a established fact that a reader will be of a page when looking at its layout' has 19 words
+[INFO ] 2022-09-15 20:10:47.824 [main] REPORT - '	It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout' has 27 words
+[INFO ] 2022-09-15 20:10:47.824 [main] REPORT - 'It was popularised in the "Динамо" (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum' has 32 words
+[INFO ] 2022-09-15 20:10:47.825 [main] REPORT - 'The point of using Ipsum is that it has a more- or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English' has 35 words
+[INFO ] 2022-09-15 20:10:47.873 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:47.875 [main] REPORT -  'Aldus' - 1 counts
+[INFO ] 2022-09-15 20:10:47.875 [main] REPORT -  'Bye' - 1 counts
+[INFO ] 2022-09-15 20:10:47.876 [main] REPORT -  'Content' - 1 counts
+[INFO ] 2022-09-15 20:10:47.876 [main] REPORT -  'English' - 1 counts
+[INFO ] 2022-09-15 20:10:47.876 [main] REPORT -  'Faclon9' - 1 counts
+[INFO ] 2022-09-15 20:10:47.878 [main] REPORT -  'Ipsum' - 3 counts
+[INFO ] 2022-09-15 20:10:47.880 [main] REPORT -  'It' - 4 counts
+[INFO ] 2022-09-15 20:10:47.881 [main] REPORT -  'Letraset' - 1 counts
+[INFO ] 2022-09-15 20:10:47.882 [main] REPORT -  'Lorem' - 2 counts
+[INFO ] 2022-09-15 20:10:47.883 [main] REPORT -  'PageMaker' - 1 counts
+[INFO ] 2022-09-15 20:10:47.883 [main] REPORT -  'The' - 1 counts
+[INFO ] 2022-09-15 20:10:47.884 [main] REPORT -  'a' - 9 counts
+[INFO ] 2022-09-15 20:10:47.884 [main] REPORT -  'also' - 1 counts
+[INFO ] 2022-09-15 20:10:47.885 [main] REPORT -  'and' - 1 counts
+[INFO ] 2022-09-15 20:10:47.885 [main] REPORT -  'as' - 1 counts
+[INFO ] 2022-09-15 20:10:47.885 [main] REPORT -  'at' - 2 counts
+[INFO ] 2022-09-15 20:10:47.886 [main] REPORT -  'b' - 2 counts
+[INFO ] 2022-09-15 20:10:47.886 [main] REPORT -  'be' - 2 counts
+[INFO ] 2022-09-15 20:10:47.887 [main] REPORT -  'but' - 1 counts
+[INFO ] 2022-09-15 20:10:47.887 [main] REPORT -  'by' - 1 counts
+[INFO ] 2022-09-15 20:10:47.887 [main] REPORT -  'c' - 1 counts
+[INFO ] 2022-09-15 20:10:47.887 [main] REPORT -  'centuries' - 1 counts
+[INFO ] 2022-09-15 20:10:47.888 [main] REPORT -  'containing' - 1 counts
+[INFO ] 2022-09-15 20:10:47.888 [main] REPORT -  'content' - 2 counts
+[INFO ] 2022-09-15 20:10:47.889 [main] REPORT -  'desktop' - 1 counts
+[INFO ] 2022-09-15 20:10:47.889 [main] REPORT -  'distracted' - 1 counts
+[INFO ] 2022-09-15 20:10:47.889 [main] REPORT -  'distribution' - 1 counts
+[INFO ] 2022-09-15 20:10:47.889 [main] REPORT -  'electronic' - 1 counts
+[INFO ] 2022-09-15 20:10:47.890 [main] REPORT -  'essentially' - 1 counts
+[INFO ] 2022-09-15 20:10:47.890 [main] REPORT -  'established' - 2 counts
+[INFO ] 2022-09-15 20:10:47.890 [main] REPORT -  'fact' - 2 counts
+[INFO ] 2022-09-15 20:10:47.890 [main] REPORT -  'five' - 1 counts
+[INFO ] 2022-09-15 20:10:47.891 [main] REPORT -  'has' - 2 counts
+[INFO ] 2022-09-15 20:10:47.891 [main] REPORT -  'here' - 2 counts
+[INFO ] 2022-09-15 20:10:47.891 [main] REPORT -  'in' - 1 counts
+[INFO ] 2022-09-15 20:10:47.891 [main] REPORT -  'including' - 1 counts
+[INFO ] 2022-09-15 20:10:47.892 [main] REPORT -  'into' - 1 counts
+[INFO ] 2022-09-15 20:10:47.892 [main] REPORT -  'is' - 3 counts
+[INFO ] 2022-09-15 20:10:47.892 [main] REPORT -  'it' - 2 counts
+[INFO ] 2022-09-15 20:10:47.892 [main] REPORT -  'its' - 2 counts
+[INFO ] 2022-09-15 20:10:47.892 [main] REPORT -  'layout' - 2 counts
+[INFO ] 2022-09-15 20:10:47.892 [main] REPORT -  'leap' - 1 counts
+[INFO ] 2022-09-15 20:10:47.893 [main] REPORT -  'less' - 1 counts
+[INFO ] 2022-09-15 20:10:47.893 [main] REPORT -  'like' - 2 counts
+[INFO ] 2022-09-15 20:10:47.893 [main] REPORT -  'long' - 1 counts
+[INFO ] 2022-09-15 20:10:47.894 [main] REPORT -  'look' - 1 counts
+[INFO ] 2022-09-15 20:10:47.894 [main] REPORT -  'looking' - 2 counts
+[INFO ] 2022-09-15 20:10:47.894 [main] REPORT -  'making' - 1 counts
+[INFO ] 2022-09-15 20:10:47.894 [main] REPORT -  'more' - 2 counts
+[INFO ] 2022-09-15 20:10:47.894 [main] REPORT -  'normal' - 1 counts
+[INFO ] 2022-09-15 20:10:47.895 [main] REPORT -  'not' - 1 counts
+[INFO ] 2022-09-15 20:10:47.895 [main] REPORT -  'ob' - 1 counts
+[INFO ] 2022-09-15 20:10:47.895 [main] REPORT -  'of' - 5 counts
+[INFO ] 2022-09-15 20:10:47.896 [main] REPORT -  'only' - 1 counts
+[INFO ] 2022-09-15 20:10:47.896 [main] REPORT -  'opposed' - 1 counts
+[INFO ] 2022-09-15 20:10:47.896 [main] REPORT -  'or' - 1 counts
+[INFO ] 2022-09-15 20:10:47.896 [main] REPORT -  'page' - 2 counts
+[INFO ] 2022-09-15 20:10:47.897 [main] REPORT -  'passages' - 1 counts
+[INFO ] 2022-09-15 20:10:47.897 [main] REPORT -  'point' - 1 counts
+[INFO ] 2022-09-15 20:10:47.897 [main] REPORT -  'popularised' - 1 counts
+[INFO ] 2022-09-15 20:10:47.897 [main] REPORT -  'publishing' - 1 counts
+[INFO ] 2022-09-15 20:10:47.898 [main] REPORT -  'readable' - 2 counts
+[INFO ] 2022-09-15 20:10:47.898 [main] REPORT -  'reader' - 2 counts
+[INFO ] 2022-09-15 20:10:47.898 [main] REPORT -  'recently' - 1 counts
+[INFO ] 2022-09-15 20:10:47.898 [main] REPORT -  'release' - 1 counts
+[INFO ] 2022-09-15 20:10:47.899 [main] REPORT -  'remaining' - 1 counts
+[INFO ] 2022-09-15 20:10:47.899 [main] REPORT -  's' - 1 counts
+[INFO ] 2022-09-15 20:10:47.899 [main] REPORT -  'sheets' - 1 counts
+[INFO ] 2022-09-15 20:10:47.899 [main] REPORT -  'software' - 1 counts
+[INFO ] 2022-09-15 20:10:47.900 [main] REPORT -  'survived' - 1 counts
+[INFO ] 2022-09-15 20:10:47.900 [main] REPORT -  'that' - 3 counts
+[INFO ] 2022-09-15 20:10:47.900 [main] REPORT -  'the' - 4 counts
+[INFO ] 2022-09-15 20:10:47.901 [main] REPORT -  'to' - 1 counts
+[INFO ] 2022-09-15 20:10:47.901 [main] REPORT -  'toString' - 2 counts
+[INFO ] 2022-09-15 20:10:47.901 [main] REPORT -  'typesetting' - 1 counts
+[INFO ] 2022-09-15 20:10:47.901 [main] REPORT -  'unchanged' - 1 counts
+[INFO ] 2022-09-15 20:10:47.902 [main] REPORT -  'using' - 2 counts
+[INFO ] 2022-09-15 20:10:47.902 [main] REPORT -  'versions' - 1 counts
+[INFO ] 2022-09-15 20:10:47.902 [main] REPORT -  'was' - 1 counts
+[INFO ] 2022-09-15 20:10:47.902 [main] REPORT -  'when' - 2 counts
+[INFO ] 2022-09-15 20:10:47.903 [main] REPORT -  'will' - 2 counts
+[INFO ] 2022-09-15 20:10:47.903 [main] REPORT -  'with' - 2 counts
+[INFO ] 2022-09-15 20:10:47.904 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:47.904 [main] REPORT -  'A' - 1 counts
+[INFO ] 2022-09-15 20:10:47.904 [main] REPORT -  'E' - 1 counts
+[INFO ] 2022-09-15 20:10:47.905 [main] REPORT -  'I' - 7 counts
+[INFO ] 2022-09-15 20:10:47.905 [main] REPORT -  'a' - 51 counts
+[INFO ] 2022-09-15 20:10:47.905 [main] REPORT -  'e' - 69 counts
+[INFO ] 2022-09-15 20:10:47.905 [main] REPORT -  'i' - 46 counts
+[INFO ] 2022-09-15 20:10:47.906 [main] REPORT -  'o' - 42 counts
+[INFO ] 2022-09-15 20:10:47.906 [main] REPORT -  'u' - 16 counts
+[INFO ] 2022-09-15 20:10:47.907 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:47.908 [main] REPORT -  'B' - 1 counts
+[INFO ] 2022-09-15 20:10:47.908 [main] REPORT -  'C' - 1 counts
+[INFO ] 2022-09-15 20:10:47.908 [main] REPORT -  'F' - 1 counts
+[INFO ] 2022-09-15 20:10:47.909 [main] REPORT -  'L' - 3 counts
+[INFO ] 2022-09-15 20:10:47.909 [main] REPORT -  'M' - 1 counts
+[INFO ] 2022-09-15 20:10:47.909 [main] REPORT -  'P' - 1 counts
+[INFO ] 2022-09-15 20:10:47.910 [main] REPORT -  'S' - 2 counts
+[INFO ] 2022-09-15 20:10:47.910 [main] REPORT -  'T' - 1 counts
+[INFO ] 2022-09-15 20:10:47.911 [main] REPORT -  '[' - 1 counts
+[INFO ] 2022-09-15 20:10:47.911 [main] REPORT -  'b' - 13 counts
+[INFO ] 2022-09-15 20:10:47.912 [main] REPORT -  'c' - 14 counts
+[INFO ] 2022-09-15 20:10:47.913 [main] REPORT -  'd' - 17 counts
+[INFO ] 2022-09-15 20:10:47.913 [main] REPORT -  'f' - 9 counts
+[INFO ] 2022-09-15 20:10:47.913 [main] REPORT -  'g' - 19 counts
+[INFO ] 2022-09-15 20:10:47.913 [main] REPORT -  'h' - 22 counts
+[INFO ] 2022-09-15 20:10:47.914 [main] REPORT -  'k' - 8 counts
+[INFO ] 2022-09-15 20:10:47.914 [main] REPORT -  'l' - 32 counts
+[INFO ] 2022-09-15 20:10:47.914 [main] REPORT -  'm' - 10 counts
+[INFO ] 2022-09-15 20:10:47.914 [main] REPORT -  'n' - 42 counts
+[INFO ] 2022-09-15 20:10:47.915 [main] REPORT -  'p' - 15 counts
+[INFO ] 2022-09-15 20:10:47.915 [main] REPORT -  'r' - 29 counts
+[INFO ] 2022-09-15 20:10:47.915 [main] REPORT -  's' - 45 counts
+[INFO ] 2022-09-15 20:10:47.915 [main] REPORT -  't' - 60 counts
+[INFO ] 2022-09-15 20:10:47.916 [main] REPORT -  'v' - 4 counts
+[INFO ] 2022-09-15 20:10:47.916 [main] REPORT -  'w' - 8 counts
+[INFO ] 2022-09-15 20:10:47.916 [main] REPORT -  'y' - 8 counts
+[INFO ] 2022-09-15 20:10:47.933 [main] REPORT - File successfully read with path - 'files/text2.txt'!
+
+[INFO ] 2022-09-15 20:10:47.936 [main] REPORT - 
+ Sort By Length
+[INFO ] 2022-09-15 20:10:47.937 [main] REPORT - 'It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout. '
+[INFO ] 2022-09-15 20:10:47.937 [main] REPORT - 'Bye.'
+[INFO ] 2022-09-15 20:10:47.937 [main] REPORT - 'It has survived - not only (five) centuries, but also the leap into 13++ + ++2 electronic typesetting, remaining 3>>5 essentially ~6&9|(3&4) unchanged. It was popularised in the 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. '
+[INFO ] 2022-09-15 20:10:47.938 [main] REPORT - 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English. '
+[INFO ] 2022-09-15 20:10:47.939 [main] REPORT - 
+ Sentences with higher word - 'distribution'
+[INFO ] 2022-09-15 20:10:47.939 [main] REPORT - 'The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English'
+[INFO ] 2022-09-15 20:10:47.940 [main] REPORT - 
+ Remove Sentences if less 7
+[INFO ] 2022-09-15 20:10:47.941 [main] REPORT - '	Bye.' has 2 words
+[INFO ] 2022-09-15 20:10:47.941 [main] REPORT -  
+ sentence is removed 
+[INFO ] 2022-09-15 20:10:47.941 [main] REPORT - '	It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout' has 25 words
+[INFO ] 2022-09-15 20:10:47.941 [main] REPORT - '	It has survived - not only (five) centuries, but also the leap into 13++ + ++2 electronic typesetting, remaining 3>>5 essentially ~6&9|(3&4) unchanged' has 26 words
+[INFO ] 2022-09-15 20:10:47.942 [main] REPORT - '	It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout' has 28 words
+[INFO ] 2022-09-15 20:10:47.942 [main] REPORT - 'The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English' has 43 words
+[INFO ] 2022-09-15 20:10:47.942 [main] REPORT - 'It was popularised in the 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum' has 45 words
+[INFO ] 2022-09-15 20:10:47.954 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:47.968 [main] REPORT -  '1' - 5 counts
+[INFO ] 2022-09-15 20:10:47.968 [main] REPORT -  '10' - 1 counts
+[INFO ] 2022-09-15 20:10:47.968 [main] REPORT -  '1200' - 1 counts
+[INFO ] 2022-09-15 20:10:47.973 [main] REPORT -  '13' - 1 counts
+[INFO ] 2022-09-15 20:10:47.973 [main] REPORT -  '2' - 11 counts
+[INFO ] 2022-09-15 20:10:47.974 [main] REPORT -  '3' - 6 counts
+[INFO ] 2022-09-15 20:10:47.974 [main] REPORT -  '4' - 3 counts
+[INFO ] 2022-09-15 20:10:47.974 [main] REPORT -  '42' - 1 counts
+[INFO ] 2022-09-15 20:10:47.974 [main] REPORT -  '47' - 1 counts
+[INFO ] 2022-09-15 20:10:47.974 [main] REPORT -  '5' - 5 counts
+[INFO ] 2022-09-15 20:10:47.975 [main] REPORT -  '6' - 2 counts
+[INFO ] 2022-09-15 20:10:47.975 [main] REPORT -  '7' - 2 counts
+[INFO ] 2022-09-15 20:10:47.976 [main] REPORT -  '71' - 2 counts
+[INFO ] 2022-09-15 20:10:47.977 [main] REPORT -  '78' - 1 counts
+[INFO ] 2022-09-15 20:10:47.977 [main] REPORT -  '89' - 1 counts
+[INFO ] 2022-09-15 20:10:47.977 [main] REPORT -  '9' - 1 counts
+[INFO ] 2022-09-15 20:10:47.977 [main] REPORT -  'Aldus' - 1 counts
+[INFO ] 2022-09-15 20:10:47.977 [main] REPORT -  'Bye' - 1 counts
+[INFO ] 2022-09-15 20:10:47.978 [main] REPORT -  'Content' - 1 counts
+[INFO ] 2022-09-15 20:10:47.978 [main] REPORT -  'English' - 1 counts
+[INFO ] 2022-09-15 20:10:47.978 [main] REPORT -  'Ipsum' - 3 counts
+[INFO ] 2022-09-15 20:10:47.978 [main] REPORT -  'It' - 4 counts
+[INFO ] 2022-09-15 20:10:47.978 [main] REPORT -  'Letraset' - 1 counts
+[INFO ] 2022-09-15 20:10:47.979 [main] REPORT -  'Lorem' - 2 counts
+[INFO ] 2022-09-15 20:10:47.980 [main] REPORT -  'PageMaker' - 1 counts
+[INFO ] 2022-09-15 20:10:47.980 [main] REPORT -  'The' - 1 counts
+[INFO ] 2022-09-15 20:10:47.981 [main] REPORT -  'a' - 7 counts
+[INFO ] 2022-09-15 20:10:47.981 [main] REPORT -  'also' - 1 counts
+[INFO ] 2022-09-15 20:10:47.981 [main] REPORT -  'and' - 1 counts
+[INFO ] 2022-09-15 20:10:47.981 [main] REPORT -  'as' - 1 counts
+[INFO ] 2022-09-15 20:10:47.981 [main] REPORT -  'at' - 2 counts
+[INFO ] 2022-09-15 20:10:47.982 [main] REPORT -  'be' - 2 counts
+[INFO ] 2022-09-15 20:10:47.982 [main] REPORT -  'but' - 1 counts
+[INFO ] 2022-09-15 20:10:47.982 [main] REPORT -  'by' - 1 counts
+[INFO ] 2022-09-15 20:10:47.982 [main] REPORT -  'centuries' - 1 counts
+[INFO ] 2022-09-15 20:10:47.983 [main] REPORT -  'containing' - 1 counts
+[INFO ] 2022-09-15 20:10:47.983 [main] REPORT -  'content' - 2 counts
+[INFO ] 2022-09-15 20:10:47.983 [main] REPORT -  'desktop' - 1 counts
+[INFO ] 2022-09-15 20:10:47.984 [main] REPORT -  'distracted' - 1 counts
+[INFO ] 2022-09-15 20:10:47.984 [main] REPORT -  'distribution' - 1 counts
+[INFO ] 2022-09-15 20:10:47.984 [main] REPORT -  'electronic' - 1 counts
+[INFO ] 2022-09-15 20:10:47.985 [main] REPORT -  'essentially' - 1 counts
+[INFO ] 2022-09-15 20:10:47.985 [main] REPORT -  'established' - 2 counts
+[INFO ] 2022-09-15 20:10:47.986 [main] REPORT -  'fact' - 2 counts
+[INFO ] 2022-09-15 20:10:47.986 [main] REPORT -  'five' - 1 counts
+[INFO ] 2022-09-15 20:10:47.986 [main] REPORT -  'has' - 2 counts
+[INFO ] 2022-09-15 20:10:47.996 [main] REPORT -  'here' - 2 counts
+[INFO ] 2022-09-15 20:10:47.996 [main] REPORT -  'in' - 1 counts
+[INFO ] 2022-09-15 20:10:47.996 [main] REPORT -  'including' - 1 counts
+[INFO ] 2022-09-15 20:10:47.997 [main] REPORT -  'into' - 1 counts
+[INFO ] 2022-09-15 20:10:47.997 [main] REPORT -  'is' - 3 counts
+[INFO ] 2022-09-15 20:10:47.997 [main] REPORT -  'it' - 2 counts
+[INFO ] 2022-09-15 20:10:47.997 [main] REPORT -  'its' - 2 counts
+[INFO ] 2022-09-15 20:10:47.998 [main] REPORT -  'layout' - 2 counts
+[INFO ] 2022-09-15 20:10:47.998 [main] REPORT -  'leap' - 1 counts
+[INFO ] 2022-09-15 20:10:47.998 [main] REPORT -  'less' - 1 counts
+[INFO ] 2022-09-15 20:10:47.999 [main] REPORT -  'letters' - 1 counts
+[INFO ] 2022-09-15 20:10:47.999 [main] REPORT -  'like' - 2 counts
+[INFO ] 2022-09-15 20:10:47.999 [main] REPORT -  'long' - 1 counts
+[INFO ] 2022-09-15 20:10:48.000 [main] REPORT -  'look' - 1 counts
+[INFO ] 2022-09-15 20:10:48.000 [main] REPORT -  'looking' - 2 counts
+[INFO ] 2022-09-15 20:10:48.000 [main] REPORT -  'making' - 1 counts
+[INFO ] 2022-09-15 20:10:48.000 [main] REPORT -  'more' - 2 counts
+[INFO ] 2022-09-15 20:10:48.001 [main] REPORT -  'normal' - 1 counts
+[INFO ] 2022-09-15 20:10:48.001 [main] REPORT -  'not' - 1 counts
+[INFO ] 2022-09-15 20:10:48.001 [main] REPORT -  'of' - 6 counts
+[INFO ] 2022-09-15 20:10:48.001 [main] REPORT -  'only' - 1 counts
+[INFO ] 2022-09-15 20:10:48.001 [main] REPORT -  'opposed' - 1 counts
+[INFO ] 2022-09-15 20:10:48.002 [main] REPORT -  'or' - 1 counts
+[INFO ] 2022-09-15 20:10:48.002 [main] REPORT -  'page' - 2 counts
+[INFO ] 2022-09-15 20:10:48.002 [main] REPORT -  'passages' - 1 counts
+[INFO ] 2022-09-15 20:10:48.002 [main] REPORT -  'point' - 1 counts
+[INFO ] 2022-09-15 20:10:48.006 [main] REPORT -  'popularised' - 1 counts
+[INFO ] 2022-09-15 20:10:48.006 [main] REPORT -  'publishing' - 1 counts
+[INFO ] 2022-09-15 20:10:48.006 [main] REPORT -  'readable' - 2 counts
+[INFO ] 2022-09-15 20:10:48.007 [main] REPORT -  'reader' - 2 counts
+[INFO ] 2022-09-15 20:10:48.007 [main] REPORT -  'recently' - 1 counts
+[INFO ] 2022-09-15 20:10:48.007 [main] REPORT -  'release' - 1 counts
+[INFO ] 2022-09-15 20:10:48.007 [main] REPORT -  'remaining' - 1 counts
+[INFO ] 2022-09-15 20:10:48.007 [main] REPORT -  'sheets' - 1 counts
+[INFO ] 2022-09-15 20:10:48.008 [main] REPORT -  'software' - 1 counts
+[INFO ] 2022-09-15 20:10:48.008 [main] REPORT -  'survived' - 1 counts
+[INFO ] 2022-09-15 20:10:48.008 [main] REPORT -  'that' - 3 counts
+[INFO ] 2022-09-15 20:10:48.008 [main] REPORT -  'the' - 4 counts
+[INFO ] 2022-09-15 20:10:48.008 [main] REPORT -  'to' - 1 counts
+[INFO ] 2022-09-15 20:10:48.009 [main] REPORT -  'typesetting' - 1 counts
+[INFO ] 2022-09-15 20:10:48.009 [main] REPORT -  'unchanged' - 1 counts
+[INFO ] 2022-09-15 20:10:48.010 [main] REPORT -  'using' - 2 counts
+[INFO ] 2022-09-15 20:10:48.010 [main] REPORT -  'versions' - 1 counts
+[INFO ] 2022-09-15 20:10:48.010 [main] REPORT -  'was' - 1 counts
+[INFO ] 2022-09-15 20:10:48.011 [main] REPORT -  'when' - 2 counts
+[INFO ] 2022-09-15 20:10:48.011 [main] REPORT -  'will' - 2 counts
+[INFO ] 2022-09-15 20:10:48.011 [main] REPORT -  'with' - 2 counts
+[INFO ] 2022-09-15 20:10:48.012 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:48.012 [main] REPORT -  'A' - 1 counts
+[INFO ] 2022-09-15 20:10:48.012 [main] REPORT -  'E' - 1 counts
+[INFO ] 2022-09-15 20:10:48.013 [main] REPORT -  'I' - 7 counts
+[INFO ] 2022-09-15 20:10:48.013 [main] REPORT -  'a' - 48 counts
+[INFO ] 2022-09-15 20:10:48.013 [main] REPORT -  'e' - 71 counts
+[INFO ] 2022-09-15 20:10:48.013 [main] REPORT -  'i' - 44 counts
+[INFO ] 2022-09-15 20:10:48.014 [main] REPORT -  'o' - 39 counts
+[INFO ] 2022-09-15 20:10:48.014 [main] REPORT -  'u' - 16 counts
+[INFO ] 2022-09-15 20:10:48.015 [main] REPORT - 
+ Count of elements:
+[INFO ] 2022-09-15 20:10:48.015 [main] REPORT -  '0' - 3 counts
+[INFO ] 2022-09-15 20:10:48.015 [main] REPORT -  'B' - 1 counts
+[INFO ] 2022-09-15 20:10:48.015 [main] REPORT -  'C' - 1 counts
+[INFO ] 2022-09-15 20:10:48.016 [main] REPORT -  'L' - 3 counts
+[INFO ] 2022-09-15 20:10:48.016 [main] REPORT -  'M' - 1 counts
+[INFO ] 2022-09-15 20:10:48.016 [main] REPORT -  'P' - 1 counts
+[INFO ] 2022-09-15 20:10:48.016 [main] REPORT -  'T' - 1 counts
+[INFO ] 2022-09-15 20:10:48.016 [main] REPORT -  '[' - 1 counts
+[INFO ] 2022-09-15 20:10:48.017 [main] REPORT -  'b' - 10 counts
+[INFO ] 2022-09-15 20:10:48.017 [main] REPORT -  'c' - 12 counts
+[INFO ] 2022-09-15 20:10:48.017 [main] REPORT -  'd' - 17 counts
+[INFO ] 2022-09-15 20:10:48.017 [main] REPORT -  'f' - 10 counts
+[INFO ] 2022-09-15 20:10:48.017 [main] REPORT -  'g' - 17 counts
+[INFO ] 2022-09-15 20:10:48.018 [main] REPORT -  'h' - 22 counts
+[INFO ] 2022-09-15 20:10:48.018 [main] REPORT -  'k' - 8 counts
+[INFO ] 2022-09-15 20:10:48.018 [main] REPORT -  'l' - 32 counts
+[INFO ] 2022-09-15 20:10:48.018 [main] REPORT -  'm' - 10 counts
+[INFO ] 2022-09-15 20:10:48.018 [main] REPORT -  'n' - 39 counts
+[INFO ] 2022-09-15 20:10:48.018 [main] REPORT -  'p' - 15 counts
+[INFO ] 2022-09-15 20:10:48.024 [main] REPORT -  'r' - 28 counts
+[INFO ] 2022-09-15 20:10:48.024 [main] REPORT -  's' - 45 counts
+[INFO ] 2022-09-15 20:10:48.025 [main] REPORT -  't' - 58 counts
+[INFO ] 2022-09-15 20:10:48.025 [main] REPORT -  'v' - 4 counts
+[INFO ] 2022-09-15 20:10:48.025 [main] REPORT -  'w' - 8 counts
+[INFO ] 2022-09-15 20:10:48.025 [main] REPORT -  'y' - 8 counts
