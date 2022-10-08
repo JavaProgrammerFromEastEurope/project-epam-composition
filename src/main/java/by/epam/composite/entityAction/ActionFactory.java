@@ -9,10 +9,11 @@ public class ActionFactory {
 
     private static final ActionFactory instance = new ActionFactory();
 
+    private final Map<Integer, ActionTemplate> appActions = new HashMap<>();
+
     public static ActionFactory getInstance() {
         return instance;
     }
-    private final Map<Integer, ActionTemplate> appActions = new HashMap<>();
 
     private ActionFactory() {
         appActions.put(1, new TextActions());

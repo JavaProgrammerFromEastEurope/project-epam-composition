@@ -45,12 +45,10 @@ public class TextActions implements ActionTemplate {
         List<String> sentences = textKeeper.getSentences();
         latWords.sort(new SortByLengthWord());
         logger.printf(Level.INFO, "%n Sentences with higher word - '%s'", latWords.get(0));
-        sentences.forEach(value ->
-        {
-            if (value.contains(latWords.get(0))) {
-                logger.printf(Level.INFO, "'%s'", value);
-            }
-        });
+        sentences.stream()
+                .filter(value -> value.contains(latWords.get(0)))
+                .forEach(value ->
+                        logger.printf(Level.INFO, "'%s'", value));
         getInfoForUser();
     }
 

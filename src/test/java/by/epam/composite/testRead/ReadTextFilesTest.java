@@ -63,8 +63,7 @@ public class ReadTextFilesTest {
     private void countOf(List<String> list) {
         TreeMap<Object, Integer> treeMap = new TreeMap<>();
         TreeSet<Object> sortedElementsSet;
-        sortedElementsSet = new TreeSet<>(
-                Arrays.asList(list.toArray()).subList(0, list.size()));
+        sortedElementsSet = new TreeSet<>(list);
         int localBound = sortedElementsSet.size();
         for (int index = 0; index < localBound; index++) {
             treeMap.put(sortedElementsSet.pollFirst(), 0);
